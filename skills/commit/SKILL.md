@@ -1,5 +1,5 @@
 ---
-name: ship
+name: commit
 description: Commit and push with Conventional Commits. Suggests three subject lines matching your past commits, drafts the body, then stages, commits and pushes. Use when the user asks to commit, ship, or push their changes.
 ---
 
